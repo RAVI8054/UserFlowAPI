@@ -20,8 +20,9 @@ UserFlowAPI is a RESTful API built with **Node.js** and **Express.js** that allo
 
   ---
 ## Middleware
-- Logs each request method, URL, and status code
-- Validates required fields on POST and PUT
+ - Logs each request method, URL, and status code
+ - Validates required fields on POST and PUT
+  
   ---
   ## Error Handling
 - Returns 400 for missing fields
