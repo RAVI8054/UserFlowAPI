@@ -12,11 +12,11 @@ UserFlowAPI is a RESTful API built with **Node.js** and **Express.js** that allo
    ```bash
    git clone https://github.com/RAVI8054/UserFlowAPI.git
    cd UserFlowAPI
-2.#Install dependencies#:
-   ```bash
+2.Install dependencies:
+   bash
    npm install
 3.Start the server:
-   ```bash
+   bash
   npm run start
 ---
 ## 📁 Project Structure
