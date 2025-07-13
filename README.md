@@ -13,8 +13,7 @@ UserFlowAPI is a RESTful API built with **Node.js** and **Express.js** that allo
    git clone https://github.com/RAVI8054/UserFlowAPI.git
    cd UserFlowAPI
 2.Install dependencies:
-   bash
-   npm install
+<pre> ```bash npm install ``` </pre>
 3.Start the server:
    bash
   npm run start
