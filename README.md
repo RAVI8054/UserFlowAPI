@@ -24,7 +24,7 @@ UserFlowAPI is a RESTful API built with **Node.js** and **Express.js** that allo
  - Validates required fields on POST and PUT
   
   ---
-  ## Error Handling
+  ## - [❗ Error Handling]
 - Returns 400 for missing fields
 - Returns 404 for user not found
 - Returns 201 for successful creation
