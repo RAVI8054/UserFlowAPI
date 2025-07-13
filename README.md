@@ -23,18 +23,18 @@ UserFlowAPI is a RESTful API built with **Node.js** and **Express.js** that allo
 UserFlowAPI/
 UserFlowAPI/
 ├── index.js
-# Main server file
+### Main server file
 ├── routes/
 │   └── users.js
-# API routes for user operations
+###API routes for user operations
 ├── middleware/
 │   ├── logger.js
-# Custom logger middleware
+###Custom logger middleware
 │   └── validator.js
-# Middleware for input validation
+### Middleware for input validation
 ├── data/
 │   └── users.js
-# In-memory user data array
+### In-memory user data array
 └── README.md
-# Project documentation
+### Project documentation
 
