@@ -34,6 +34,9 @@ Tested using ThunderClient with screenshots included in the submission document.
 --- 
 ## project st
 UserFlowAPI/
+## Project Structure
+```
+UserFlowAPI/
 ├── controllers/
 │   └── users.controller.js
 ├── middleware/
@@ -46,13 +49,9 @@ UserFlowAPI/
 ├── package.json
 ├── package-lock.json
 ├── README.md
-└── tests/
-    └── (test files if any)
-
-
-
+```
 ---
-## 🚀 Getting Started
+##🚀Getting Started
 ### 📁 Prerequisites
 - Node.js (v14+ recommended)
 - npm
