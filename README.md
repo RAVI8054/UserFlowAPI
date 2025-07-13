@@ -32,6 +32,22 @@ UserFlowAPI is a RESTful API built with **Node.js** and **Express.js** that allo
 ## Testing
 Tested using ThunderClient with screenshots included in the submission document.
 --- 
+## project st
+UserFlowAPI/
+├── controllers/
+│   └── users.controller.js
+├── middleware/
+│   └── users.middleware.js
+├── models/
+│   └── users.model.js
+├── routes/
+│   └── users.routes.js
+├── index.js
+├── package.json
+├── package-lock.json
+├── README.md
+└── tests/
+    └── (test files if any)
 
 
 
