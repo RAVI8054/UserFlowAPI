@@ -71,7 +71,7 @@ UserFlowAPI/
    npm install 
 3. Start the server:
    ```bash
-   npm run start
+   npm start
 ---
 
 
